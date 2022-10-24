@@ -1,2 +1,22 @@
 # Hello World (Java)
 
+***Fall 2020***
+
+Hello World using Java.
+
+## Used In This Repository
+
+- [Java 18.9 and JVM 18.9](https://www.java.com/en/download/manual.jsp)
+
+## Getting Started
+
+Run using IDE
+
+## Version History
+
+* 0.1
+    * Initial Release
+
+## Acknowledgments
+
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
